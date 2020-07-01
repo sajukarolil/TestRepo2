@@ -3,3 +3,4 @@ A sample file
 
 Line 04
 Line 05
+Line 06

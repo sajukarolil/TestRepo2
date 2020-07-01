@@ -4,4 +4,4 @@ A sample file
 Line 04
 Line 05
 Line 06
-Line 07 added to master
+Line 08 added to master
